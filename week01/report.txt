@@ -1,0 +1,9 @@
+Name	: Muhammad
+NPM	: 1506735641
+Class	: OS-D
+
+I've done  Intro to Git and Intro to CLI and now going to do Intro to Scripting
+and actually I learn how to be patience and read instruction one by one and not skipping anything
+thanks to this task I search how to for loops on bash and it works
+err and now I know that I am geek(not normal) since I use vim instead of nano?
+
